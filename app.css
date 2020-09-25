@@ -1,3 +1,14 @@
 *, ::before, ::after {
     margin: 0;
 }
+
+div {
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.cacher {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
