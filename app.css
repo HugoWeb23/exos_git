@@ -2,13 +2,17 @@
     margin: 0;
 }
 
-div {
-    border-radius: 10px;
-    padding: 50px;
+.police {
+    font-family: sans-serif;
+    font-size: 15.1px;
+    margin: 50px 0 0 50px;
 }
 
-.cacher {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+span {
+    display: block;
+    line-height: 1.6;
+}
+
+.test {
+    display: none;
 }
