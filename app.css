@@ -16,3 +16,7 @@ span {
 .test {
     display: none;
 }
+
+.parent {
+    display: inline;
+}
